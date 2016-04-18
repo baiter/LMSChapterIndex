@@ -1,0 +1,25 @@
+{
+    "format_marker": "v1",
+    "chapters": [{
+        "chapter": 1,
+        "title": "some title",
+        "description": "Weed looses alot of money",
+        "traslator": "rainbow",
+        "traslatorUrl": "someurl",
+        "chapterurl": "Chapter URL"
+    }, {
+        "chapter": 2,
+        "title": "some title",
+        "description": "Weed looses alot more money",
+        "traslator": "rainbow",
+        "traslatorurl": "someurl",
+        "chapterurl": "Chapter URL"
+    }, {
+        "chapter": 3,
+        "title": "some title",
+        "description": "Weed plays the game",
+        "traslator": "rainbow",
+        "traslatorurl": "someurl",
+        "chapterurl": "Chapter URL"
+    }]
+}
