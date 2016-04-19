@@ -1,41 +1,41 @@
 {
     "format_marker": "v2",
     "volumes": [{
-        "volume":{
+        "volume1":{
             "number": 1,
             "translator": "sometranslator",
             "translatorurl": "sometranslatorturl",
             "complete": true,
             "chapters":[{
-                "chapter":{
+                "chapter1":{
                     "number":1,
                     "url": "someurl",
                     "description": "weed does a thing",
                     "keywords":["weed", "loansharks", "greed", "poor"]
 
                 },
-                "chapter":{
+                "chapter2":{
                     "number":2,
                     "url": "someurl",
                     "description": "weed does a thing",
                     "keywords":["weed", "loansharks", "greed", "poor"]
 
                 },
-                "chapter":{
+                "chapter3":{
                     "number":3,
                     "url": "someurl",
                     "description": "weed does a thing",
                     "keywords":["weed", "loansharks", "greed", "poor"]
 
                 },
-                "chapter":{
+                "chapter4":{
                     "number":4,
                     "url": "someurl",
                     "description": "weed does a thing",
                     "keywords":["weed", "loansharks", "greed", "poor"]
 
                 },
-                "chapter":{
+                "chapter5":{
                     "number":5,
                     "url": "someurl",
                     "description": "weed does a thing",
@@ -45,41 +45,41 @@
             }]
 
         },
-        "volume":{
+        "volume2":{
             "number": 2,
             "translator": "sometranslator",
             "translatorurl": "sometranslatorturl",
             "complete": true,
             "chapters":[{
-                "chapter":{
+                "chapter1":{
                     "number":1,
                     "url": "someurl",
                     "description": "weed does a thing",
                     "keywords":["weed", "loansharks", "greed", "poor"]
 
                 },
-                "chapter":{
+                "chapter2":{
                     "number":2,
                     "url": "someurl",
                     "description": "weed does a thing",
                     "keywords":["weed", "loansharks", "greed", "poor"]
 
                 },
-                "chapter":{
+                "chapter3":{
                     "number":3,
                     "url": "someurl",
                     "description": "weed does a thing",
                     "keywords":["weed", "loansharks", "greed", "poor"]
 
                 },
-                "chapter":{
+                "chapte4r":{
                     "number":4,
                     "url": "someurl",
                     "description": "weed does a thing",
                     "keywords":["weed", "loansharks", "greed", "poor"]
 
                 },
-                "chapter":{
+                "chapter5":{
                     "number":5,
                     "url": "someurl",
                     "description": "weed does a thing",
@@ -89,41 +89,41 @@
             }]
 
         },
-        "volume":{
+        "volume3":{
             "number": 3,
             "translator": "sometranslator",
             "translatorurl": "sometranslatorturl",
             "complete": true,
             "chapters":[{
-                "chapter":{
+                "chapter1":{
                     "number":1,
                     "url": "someurl",
                     "description": "weed does a thing",
                     "keywords":["weed", "loansharks", "greed", "poor"]
 
                 },
-                "chapter":{
+                "chapter2":{
                     "number":2,
                     "url": "someurl",
                     "description": "weed does a thing",
                     "keywords":["weed", "loansharks", "greed", "poor"]
 
                 },
-                "chapter":{
+                "chapter3":{
                     "number":3,
                     "url": "someurl",
                     "description": "weed does a thing",
                     "keywords":["weed", "loansharks", "greed", "poor"]
 
                 },
-                "chapter":{
+                "chapter4":{
                     "number":4,
                     "url": "someurl",
                     "description": "weed does a thing",
                     "keywords":["weed", "loansharks", "greed", "poor"]
 
                 },
-                "chapter":{
+                "chapter5":{
                     "number":5,
                     "url": "someurl",
                     "description": "weed does a thing",
