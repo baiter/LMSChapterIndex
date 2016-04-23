@@ -3,95 +3,682 @@
     "volumes": [{
         "volume1":{
             "number": 1,
-            "translator": "sometranslator",
-            "translatorurl": "sometranslatorturl",
+            "translator": "Bonky,1stSlug,Official English Novel",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
             "complete": true,
             "chapters":[{
                 "chapter1":{
                     "number":1,
-                    "url": "someurl",
-                    "description": "weed does a thing",
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-1.html",
+                    "description": "Chapter 1: Birth of a Dark Gamer",
                     "keywords":["weed", "loansharks", "greed", "poor"]
-
                 },
                 "chapter2":{
                     "number":2,
-                    "url": "someurl",
-                    "description": "weed does a thing",
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-2.html",
+                    "description": "Chapter 2: Wild Beast Appears",
                     "keywords":["weed", "loansharks", "greed", "poor"]
-
                 },
                 "chapter3":{
                     "number":3,
-                    "url": "someurl",
-                    "description": "weed does a thing",
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-2_2.html",
+                    "description": "Chapter 3: The Instructor’s Request",
                     "keywords":["weed", "loansharks", "greed", "poor"]
-
                 },
                 "chapter4":{
                     "number":4,
-                    "url": "someurl",
-                    "description": "weed does a thing",
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-4.html",
+                    "description": "Chapter 4: Dreadful Weed",
                     "keywords":["weed", "loansharks", "greed", "poor"]
-
                 },
                 "chapter5":{
                     "number":5,
-                    "url": "someurl",
-                    "description": "weed does a thing",
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-5.html",
+                    "description": "Chapter 5: The Girl Who Lost Words",
                     "keywords":["weed", "loansharks", "greed", "poor"]
-
-                }
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-6.html",
+                    "description": " Chapter 6: Over a Barbecue",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-7.html",
+                    "description": "Chapter 7: Maestro of Battles",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-8.html",
+                    "description": "Chapter 8: The Fated Profession",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-9.html",
+                    "description": "Chapter 9: The City of Heaven",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter10":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-1-chapter-10.html",
+                    "description": "Chapter 10: Weed’s Role in the Punitive Force",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
             }]
 
         },
         "volume2":{
             "number": 2,
-            "translator": "sometranslator",
-            "translatorurl": "sometranslatorturl",
+            "translator": "official English novel, Odd Squad, 1st slug",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
             "complete": true,
             "chapters":[{
                 "chapter1":{
                     "number":1,
-                    "url": "someurl",
-                    "description": "weed does a thing",
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-1.html",
+                    "description": "Chapter 1: Land of Myth",
                     "keywords":["weed", "loansharks", "greed", "poor"]
-
                 },
                 "chapter2":{
                     "number":2,
-                    "url": "someurl",
-                    "description": "weed does a thing",
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-2.html",
+                    "description": "Chapter 2: The Statue of the Goddess Freya",
                     "keywords":["weed", "loansharks", "greed", "poor"]
-
                 },
                 "chapter3":{
                     "number":3,
-                    "url": "someurl",
-                    "description": "weed does a thing",
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-3.html",
+                    "description": "Chapter 3: The Lost Treasure of the Temple",
                     "keywords":["weed", "loansharks", "greed", "poor"]
-
                 },
-                "chapte4r":{
+                "chapter4":{
                     "number":4,
-                    "url": "someurl",
-                    "description": "weed does a thing",
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-4.html",
+                    "description": "Chapter 4: City of Heaven, Lavias",
                     "keywords":["weed", "loansharks", "greed", "poor"]
-
                 },
                 "chapter5":{
                     "number":5,
-                    "url": "someurl",
-                    "description": "weed does a thing",
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-5.html",
+                    "description": " Chapter 5: The One Who Does the Worst",
                     "keywords":["weed", "loansharks", "greed", "poor"]
-
-                }
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-6.html",
+                    "description": " Chapter 6: The Meaning Behind Royal Road",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-7.html",
+                    "description": "Chapter 7: Nameless Statues of Lavias",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-8.html",
+                    "description": "Chapter 8: The Lost Treasure of Freya",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-9.html",
+                    "description": "Chapter 9: Princess’ Knight",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-2-chapter-10.html",
+                    "description": "Chapter 10: Mountains of Loot",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
             }]
-
         },
         "volume3":{
             "number": 3,
-            "translator": "sometranslator",
+            "translator": "An76685,Grisia,Chances,1stSlug,Leollyn",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-1.html",
+                    "description": "Chapter 1: My Profession, Moonlight Sculptor",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-2.html",
+                    "description": "Chapter 2: The Stone that gathers Lightning",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-3_3.html",
+                    "description": "Chapter 3: Instruments and Intrigue",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-4.html",
+                    "description": "Chapter 4: Van Hawk’s Humiliation",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-5.html",
+                    "description": "Chapter 5: Return the Holy Relic",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-6.html",
+                    "description": "Chapter 6: A Bad Cold",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-7.html",
+                    "description": "Chapter 7: Ignorant Beginners",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-8.html",
+                    "description": "Chapter 8: True Blood Vampires",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-9.html",
+                    "description": "Chapter 9: The Great Sculpture",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-10.html",
+                    "description": "Chapter 10: Battle of The Black Castle",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter11":{
+                    "number":11,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-3-chapter-11.html",
+                    "description": "Chapter 11: Emergence of Poor Broadcasting",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume4":{
+            "number": 4,
+            "translator": "Mathew1122,An76685,IcedLance,Chancs",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-1.html",
+                    "description": "Plains of Despair",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/chapter-2-jack-of-all-trades.html",
+                    "description": "Jack of All Trades",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-3.html",
+                    "description": "Prismatic Clothing Auctions",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-4.html",
+                    "description": "Engraving Master Darone",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-5.html",
+                    "description": "Shapeshifter Sculpture",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-6.html",
+                    "description": "Siege of Ohdein Castle",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-7.html",
+                    "description": "Dungeon hunting",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-8.html",
+                    "description": "Weed's hunt",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-9.html",
+                    "description": "The Dark Gamer Union",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-4-chapter-10.html",
+                    "description": "The Largest Tomb",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume5":{
+            "number": 5,
+            "translator": "AnmesicCat,Chancs,IcedLance,Bonky,Masadeer,Zapper,Ignis Nightroad,TheFalseLord",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-1.html",
+                    "description": "The Tomb of the Great King",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-2.html",
+                    "description": "The Pyramid and the Dignity of the King",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-3.html",
+                    "description": "The Power of Alcohol",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-4.html",
+                    "description": "Grades",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-5.html",
+                    "description": "Village of Exiles",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-6.html",
+                    "description": "Sculpture Transformation",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-7.html",
+                    "description": "Simple-minded Orc Karichwi",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-8.html",
+                    "description": "Orc Wars",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-9.html",
+                    "description": "Hall of Fame",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-5-chapter-10.html",
+                    "description": "Road Selection",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume6":{
+            "number": 6,
+            "translator": "An76685,IcedLance",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-1.html",
+                    "description": " Delight",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-2.html",
+                    "description": " Lavias, City in the Sky",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-3.html",
+                    "description": " First time at the Movies",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-4.html",
+                    "description": "The Restaurant of Hotel V",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-5.html",
+                    "description": " Karichwi Running!",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-6.html",
+                    "description": "Tallock's Armor",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-7.html",
+                    "description": "Past Ties",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-8.html",
+                    "description": "Strange Companion",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-6-chapter-9.html",
+                    "description": "Sculptures of Her",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume7":{
+            "number": 7,
+            "translator": "Advenedizo,Alexmustdie,AnmesicCat,BDark,Bonky,CrimsonScholar,CutePurpleBunnies,DarkD,fjorou,FudgeNouget,Grisia,Haikai,Jacob,Jake,jr8bc94,Kayaille,King,Kirito,Masadeer,Mathew1122,NinthLite,Ohio,Risuke,Shadow,Sunny,TienQD,Thunder99",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-1.html",
+                    "description": "Pre-War",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-2.html",
+                    "description": "Undead Legion",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-3.html",
+                    "description": "The Lich Shire",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-4.html",
+                    "description": "Quest",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-5.html",
+                    "description": "The Power to Reject Death",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-6.html",
+                    "description": "Into the World",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-7.html",
+                    "description": "Profit and Loss",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-8.html",
+                    "description": "Trail of Death",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-7-chapter-9.html",
+                    "description": "Hall of Fame Expedition",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume8":{
+            "number": 8,
+            "translator": "Seraph Lucis El,SnowStorm,fjorou,Jako3047,Grisia,AnmesicCat",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-1.html",
+                    "description": "Rhodium",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-2.html",
+                    "description": "Rise of the Orcs",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-3.html",
+                    "description": "Northern Expedition",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-4.html",
+                    "description": "More Rhodium",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-5.html",
+                    "description": "Handing in Lich Shire Quests",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-6.html",
+                    "description": "Rotten Lich Dungeon",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-7.html",
+                    "description": "Classical Concert",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-8.html",
+                    "description": "To the Valley of Death",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-8-part-9.html",
+                    "description": "Valley of Death",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume9":{
+            "number": 9,
+            "translator": "Athome,BlackHorus,Royal Road Team,RayPan",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-1.html",
+                    "description": "Night in Morata",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-2.html",
+                    "description": "Operation Acquire Food",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-3.html",
+                    "description": "The Wonder of the Northern Region",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-4.html",
+                    "description": "Conquest",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-5.html",
+                    "description": "In the Cave",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-6.html",
+                    "description": "A Man's Romance",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-7.html",
+                    "description": "Moonlight Magnum Opus",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-8.html",
+                    "description": " Korea University",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-9.html",
+                    "description": "Planted Seeds",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter10":{
+                    "number":10,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-10.html",
+                    "description": "Raid",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter11":{
+                    "number":11,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-9-chapter-11.html",
+                    "description": "God of War Weed",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume10":{
+            "number": 10,
+            "translator": "Bonky,Grisia",
+            "translatorurl": "http://royalroadweed.blogspot.co.il/2014/11/toc.html",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-1.html",
+                    "description": "Skeleton Soldier Weed",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-2.html",
+                    "description": "Origin of the Skeleton",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-3.html",
+                    "description": "Rise of the Undead",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-4.html",
+                    "description": "Single Point Attack Arts",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-5.html",
+                    "description": "Treasures of Nifleheim",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-6.html",
+                    "description": "Birthday Party",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-7.html",
+                    "description": "High Elf Bow",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-8.html",
+                    "description": "The Tower of Light",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-9.html",
+                    "description": "Gathering",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "http://royalroadweed.blogspot.co.il/2014/11/volume-10-chapter-10.html",
+                    "description": "Todeum",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume11":{
+            "number": 11,
+            "translator": "Watta",
             "translatorurl": "sometranslatorturl",
             "complete": true,
             "chapters":[{
@@ -100,38 +687,1544 @@
                     "url": "someurl",
                     "description": "weed does a thing",
                     "keywords":["weed", "loansharks", "greed", "poor"]
-
                 },
                 "chapter2":{
                     "number":2,
                     "url": "someurl",
                     "description": "weed does a thing",
                     "keywords":["weed", "loansharks", "greed", "poor"]
-
                 },
                 "chapter3":{
                     "number":3,
                     "url": "someurl",
                     "description": "weed does a thing",
                     "keywords":["weed", "loansharks", "greed", "poor"]
-
                 },
                 "chapter4":{
                     "number":4,
                     "url": "someurl",
                     "description": "weed does a thing",
                     "keywords":["weed", "loansharks", "greed", "poor"]
-
                 },
                 "chapter5":{
                     "number":5,
                     "url": "someurl",
                     "description": "weed does a thing",
                     "keywords":["weed", "loansharks", "greed", "poor"]
-
-                }
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
             }]
-
-        }
+        },
+        "volume12":{
+            "number": 12,
+            "translator": "Watta",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume13":{
+            "number": 13,
+            "translator": "LMS Translation,AnmesicCat,Hikaru,Kirito,Shadow",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume14":{
+            "number": 14,
+            "translator": "Japtem",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume15":{
+            "number": 15,
+            "translator": "Japtem",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume16":{
+            "number": 16,
+            "translator": "Japtem,DarkD,FudgeNougett,an76685,N",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume17":{
+            "number": 17,
+            "translator": "RR[team],Ivan5815,OpenBookWorm,Kaila,Onyka,GoldKing,blackhorus,Japtem",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume18":{
+            "number": 18,
+            "translator": "Grisia",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume19":{
+            "number": 19,
+            "translator": "Delfador,Carmen,Fundle,Gold2King,SnowMelts,Altrelo,FistsOfRage,DarkD,Alt,Key,Ryan,Lastear,ImitationKatana,Junkay,Sieghard,Helagis,DeadlyMT,Kanadaj,Curvinho,Tolack,Blackhorus",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume20":{
+            "number": 20,
+            "translator": "Bonky,dothacked",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume21":{
+            "number": 21,
+            "translator": "sometranslator",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume22":{
+            "number": 22,
+            "translator": "sometranslator",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume23":{
+            "number": 23,
+            "translator": "sometranslator",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume24":{
+            "number": 24,
+            "translator": "sometranslator",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume25":{
+            "number": 25,
+            "translator": "sometranslator",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume26":{
+            "number": 26,
+            "translator": "sometranslator",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume27":{
+            "number": 27,
+            "translator": "sometranslator",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume28":{
+            "number": 28,
+            "translator": "sometranslator",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume29":{
+            "number": 29,
+            "translator": "sometranslator",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume30":{
+            "number": 30,
+            "translator": "sometranslator",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume31":{
+            "number": 31,
+            "translator": "sometranslator",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume32":{
+            "number": 32,
+            "translator": "sometranslator",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume33":{
+            "number": 33,
+            "translator": "sometranslator",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume34":{
+            "number": 34,
+            "translator": "sometranslator",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
+        "volume35":{
+            "number": 35,
+            "translator": "sometranslator",
+            "translatorurl": "sometranslatorturl",
+            "complete": true,
+            "chapters":[{
+                "chapter1":{
+                    "number":1,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter2":{
+                    "number":2,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter3":{
+                    "number":3,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter4":{
+                    "number":4,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter5":{
+                    "number":5,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter6":{
+                    "number":6,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter7":{
+                    "number":7,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter8":{
+                    "number":8,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+                "chapter9":{
+                    "number":9,
+                    "url": "someurl",
+                    "description": "weed does a thing",
+                    "keywords":["weed", "loansharks", "greed", "poor"]
+                },
+            }]
+        },
     }]
 }
